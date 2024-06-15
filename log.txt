@@ -1,0 +1,36 @@
+9278 INFO log created - 2024-06-15 08:58:21.4084450
+13887 INFO app started
+217405 INFO framerate 60
+217740 INFO render target width 1920
+217802 INFO render target height 1080
+217858 INFO app is FULLSCREEN
+217913 INFO diagnostics OFF
+2234869 INFO D3D11CreateDeviceAndSwapChain
+2239244 INFO CreateD2DFactory
+2239410 INFO [IDXGISwapChain] GetBuffer
+2257173 INFO [ID2D1Factory] CreateDxgiSurfaceRenderTarget
+2260366 INFO DWriteCreateFactory
+2286429 INFO [xaudio2] XAudio2Create
+11531591 INFO [xaudio2] CreateMasteringVoice
+11796532 INFO DirectInput8Create
+11806940 INFO [IDirectInput8] CreateDevice (KEYBOARD)
+11808229 INFO [IDirectInputDevice8] SetDataFormat (KEYBOARD)
+11808385 INFO [IDirectInputDevice8] SetCooperativeLevel (KEYBOARD)
+11973845 INFO [IDirectInputDevice8] Acquire (KEYBOARD)
+11974159 INFO creating gamepad reader
+13086610 INFO [xaudio2] CreateSourceVoice
+13086864 INFO [xaudio2] CreateSourceVoice
+13087044 INFO [xaudio2] CreateSourceVoice
+13087214 INFO [xaudio2] CreateSourceVoice
+13087330 INFO [xaudio2] CreateSourceVoice
+13087478 INFO [xaudio2] CreateSourceVoice
+13087521 INFO creating game volume controller
+13087555 INFO destroying game volume controller
+13087679 INFO setting effects volume to 1
+13087757 INFO setting music volume to 1
+13089480 INFO opening main menu screen
+13089977 INFO create screen container
+105998953 INFO create screen container
+207156557 INFO app closing
+207157497 INFO destroying game volume controller
+207157643 INFO destroying gamepad reader
